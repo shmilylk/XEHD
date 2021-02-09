@@ -1,0 +1,2 @@
+# XEHD
+Hight resolution texture
